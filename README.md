@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-This is a repositlory that I manage myself.
+This is a repository that I manage myself.
